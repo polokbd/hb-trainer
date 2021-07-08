@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{font-size:40px;}
+.orange-color{color: #FBA24F;}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width-img{width: 40%;  
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 30px;
+    color: white;
+    font-weight: 800;
+    border-radius: 15px;
+    text-align: justify;
+    
+}
+.top-banner{
+    background-image: url(images/Savin-NY-Website-Background-Web-1.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+ .image2{
+     padding-top: 100px;
+ }
+ .image3bg{
+    background-image: url(images/f.jpg);
+    margin: 0;
+    padding-top: 50px;
+ }
+ .secdiv3{text-align: center;
+
+    padding-left: 100px;}
+.recipe-title{
+    
+    padding: left 5px;
+    margin: 0;
+
+}
+.section4th{
+    width: 30%;
+    padding-left: 3%;
+    justify-content: space-between;
+    box-shadow: 11px 10px 30px
+     lightslategray;
+    border: 5px;
+    border-color: lightcoral;
+    border-radius: 20px;
+    margin-left: 3%;
+   
+}
+.half-widths{
+   padding-left: 5%;
+}
+footer p{
+    text-align: center;
+    background-color: slategrey;
+    color: snow;
+    font-size: 20px;
+    border-radius: 30px;
+}
